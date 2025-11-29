@@ -1,4 +1,3 @@
-import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import HealthCheck from './components/HealthCheck';
 import Metadata from './components/Metadata';
